@@ -1,0 +1,23 @@
+{
+  "name": "angoolarticsGTM",
+  "version": "0.0.0",
+  "homepage": "https://github.com/rufman/angoolarticsGTM",
+  "authors": [
+    "Stephane Rufer <stephane.rufer@gmail.com>"
+  ],
+  "description": "GTM angularitics for angoolar",
+  "keywords": [
+    "angularitics",
+    "angoolar",
+    "gtm",
+    "google-analytics"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
